@@ -33,3 +33,5 @@ function tweet(){
     var name = $("#name").val();
     var confession =$("confession").val();
 }
+
+//I added nothing!!!
